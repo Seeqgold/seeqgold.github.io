@@ -1,4 +1,4 @@
 # seeqgold.github.io
 
 click to visit my site
-https://
+https://seeqgold.github.io/PAGES/about.html
